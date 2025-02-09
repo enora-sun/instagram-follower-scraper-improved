@@ -1,3 +1,5 @@
+# Based on redianmarku's instagram-follower-scraper: https://github.com/redianmarku/instagram-follower-scraper
+
 # Instagram Follower Scraper
 
 This Python script allows you to automatically scrape the followers of multiple Instagram users and save them in separate text files. It utilizes Selenium WebDriver to interact with the Instagram website.
